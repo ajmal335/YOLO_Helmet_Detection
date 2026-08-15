@@ -1,0 +1,6 @@
+train: "Bike Helmet Detection.v1i.yolov11/train/images"
+val: "Bike Helmet Detection.v1i.yolov11/valid/images"
+test: "Bike Helmet Detection.v1i.yolov11/test/images"
+
+nc: 2
+names: ['With Helmet', 'Without Helmet']

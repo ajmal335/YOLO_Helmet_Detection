@@ -1,0 +1,47 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+
+.venv/
+venv/
+env/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# macOS
+
+.DS_Store
+
+# VS Code
+
+.vscode/
+
+# YOLO datasets
+
+Bike Helmet Detection.v1i.yolov11/
+dataset/
+
+# YOLO training outputs
+
+runs/
+*.cache
+
+# YOLO model weights
+
+*.pt
+*.onnx
+
+# Python cache
+
+.pytest_cache/
+
+# Temporary files
+
+*.tmp
+*.log

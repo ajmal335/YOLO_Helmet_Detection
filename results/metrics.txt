@@ -1,0 +1,14 @@
+Helmet Detection - Test Evaluation Results
+============================================
+
+mAP50     : 0.7982
+mAP50-95  : 0.4369
+Precision : 0.8490
+Recall    : 0.6906
+
+Model:
+YOLO11n
+
+Classes:
+1. With Helmet
+2. Without Helmet
