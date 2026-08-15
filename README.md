@@ -149,7 +149,7 @@ The original training dataset and YOLO training runs are excluded from the repos
 Clone the repository:
 
 ```bash
-git clone <>
+git clone https://github.com/ajmal335/YOLO_Helmet_Detection.git
 cd YOLO_Helmet_Detection
 ```
 
