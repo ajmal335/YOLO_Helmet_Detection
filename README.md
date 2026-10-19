@@ -1,5 +1,18 @@
 # 🪖 YOLO Helmet Detection
 
+## Portfolio overview
+
+[Portfolio](https://github.com/ajmal335) · [Recorded test metrics](results/metrics.txt)
+
+**Recorded result:** 79.82% mAP@50; 43.69% mAP@50–95. These are existing project results, not a new benchmark from this documentation update.
+
+![Helmet detection example](examples/output/helmet_1.jpg)
+
+**Reproduction note:** the training dataset and trained weights are not included. Prepare a licensed dataset, update `data.yaml` and script paths for your machine, and train before running inference. This is a portfolio detection experiment; it is not validated for automated enforcement or safety decisions.
+
+---
+
+
 A custom object detection project built with **YOLO11n** to detect whether motorcycle riders are wearing helmets.
 
 The model detects two classes:
@@ -282,3 +295,4 @@ The project demonstrates not only model training, but also the complete workflow
 
 Aspiring AI Engineer
 Python | Machine Learning | Deep Learning | Computer Vision
+
